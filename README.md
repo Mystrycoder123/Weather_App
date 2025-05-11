@@ -1,8 +1,8 @@
 # Weather_App
 A minimal weather application that fetches current weather data from OpenWeatherMap API and displays it in a Tkinter window.
 
-!Weather App Screenshot:
-(![image](https://github.com/user-attachments/assets/77264162-039f-48a5-a70d-b50edf149b4b)) 
+![image](https://github.com/user-attachments/assets/d5fcf3c9-a508-4d7c-9394-0a2c48bc31c6)
+
 
 ## Features
 - Get current weather by city name
