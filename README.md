@@ -17,7 +17,7 @@ A minimal weather application that fetches current weather data from OpenWeather
 ## Installation
 1. Clone this repository or download the Python file:
    ```bash
-   git clone https://github.com/yourusername/simple-weather-app.git
+   git clone https://github.com/Mystrycoder123/Weather_App.git
 Install the required package:
 
 bash
